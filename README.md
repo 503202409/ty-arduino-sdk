@@ -1,1 +1,4 @@
 # ty-arduino-sdk
+ThisprojectisdevelopedusingTuyaSDK,whichenablesyoutoquicklydevelop
+brandedappsconnectingandcontrollingsmartscenariosofmanydevices.
+Formoreinformation,pleasecheckTuyaDeveloperWebsite.
